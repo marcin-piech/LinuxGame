@@ -1,0 +1,2 @@
+# LinuxGame
+Projekt gra
